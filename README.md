@@ -1,16 +1,23 @@
-## Hi there 👋
+Tannaz Haghi
 
-<!--
-**tannazhaghi/tannazhaghi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Data Analyst | M.S. Quantitative Economics (SFSU, GPA 3.97) | San Jose, CA
 
-Here are some ideas to get you started:
+I analyze economic and policy data, from survey design to dashboards. Past work: an economic impact study for the SF International Arts Festival ($251,114 local impact) and COVID-19 impact research on 579 SF small businesses (surveys in 9 languages).
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Projects
+
+Bay Area Housing Affordability · Python, SQL, Census ACS API, Zillow ZORI, Tableau In 2023, Census data understated rent burden by 2–8 percentage points in every Bay Area county; San Francisco had the largest gap (+7.9 pp). Tableau dashboard
+
+California Employment Trends by Industry · Python, SQLite, SQL window functions, BLS API Tech employment declined after 2022, and Leisure & Hospitality's recovery remains incomplete.
+
+Tools
+
+SQL · Python (pandas) · Tableau · Excel · R · Stata · BigQuery · Qualtrics
+
+Methods
+
+Regression analysis · Econometrics · Survey design · Economic impact analysis
+
+Contact
+
+LinkedIn
