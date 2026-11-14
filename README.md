@@ -19,5 +19,4 @@ Methods
 Regression analysis · Econometrics · Survey design · Economic impact analysis
 
 Contact
-
-LinkedIn
+LinkedIn: linkedin.com/tannazhaghi
